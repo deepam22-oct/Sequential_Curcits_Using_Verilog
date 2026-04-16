@@ -1,6 +1,6 @@
 // Using Behavioral Modeling
 
-module 4_2_encoder (
+module encoder_4_2 (
   input [3:0]in ,
   output reg [1:0] out 
 );
